@@ -3,21 +3,21 @@
 
 ## Description
 This script is designed to automate the post-installation process for Fedora Linux. It performs the following actions:
-- System updates
+- System updates :
 Fully updates the system
-- RPMFusion
+- RPMFusion :
 Enables RPMFusion repositories (optional)
-- Fedora packages
+- Fedora packages :
 Installs all Fedora packages listed in the fedora_packages.txt file
-- Flatpak packages
+- Flatpak packages :
 Installs all Flatpak packages listed in the flatpak_packages.txt file
-- Third-party packages
+- Third-party packages :
 Installs all .rpm packages located in the third_party/ directory
-- NVIDIA driver
+- NVIDIA driver :
 Installs the NVIDIA driver (optional)
-- Codecs
+- Codecs :
 Installs certain multimedia codecs not provided by default in Fedora
-- GNOME customization
+- GNOME customization :
 Modifies specific GNOME desktop settings and installs certain extensions
 
 ## Running

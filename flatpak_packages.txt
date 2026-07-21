@@ -1,0 +1,22 @@
+com.spotify.Client
+net.cozic.joplin_desktop
+com.github.xournalpp.xournalpp
+com.protonvpn.www
+com.sweethome3d.Sweethome3d
+im.riot.Riot
+re.fossplant.songrec
+me.kozec.syncthingtk
+
+## GNOME Apps ##
+app.drey.Warp
+com.github.jeromerobert.pdfarranger
+com.github.johnfactotum.Foliate
+com.github.tchx84.Flatseal
+com.heroicgameslauncher.hgl
+com.usebottles.bottles
+com.vysp3r.ProtonPlus
+dev.geopjr.Tuba
+io.github.flattool.Warehouse
+io.gitlab.news_flash.NewsFlash
+io.missioncenter.MissionCenter
+com.github.PintaProject.Pinta

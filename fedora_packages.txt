@@ -1,0 +1,82 @@
+### Graphical Tools ###
+ungoogled-chromium
+keepassxc
+steam
+strawberry
+discord
+geany
+gimp
+qemu-kvm
+virt-manager
+flameshot
+qbittorrent
+supertux
+supertuxkart
+retroarch
+libretro-*
+lutris
+hugin
+goverlay
+mangohud
+libreoffice-math
+remmina
+audacity
+mpv
+mpd
+mpc
+handbrake
+obs-studio
+obs-studio-plugin-droidcam
+obs-studio-plugin-vaapi
+obs-studio-plugin-vkcapture
+obs-studio-plugin-webkitgtk
+kodi
+meld
+
+### GNOME Apps ###
+epiphany
+evolution
+shotwell
+easytag
+guake
+
+### Kde Apps ###
+# akregator
+# klevernotes
+# kdenlive
+# audiotube
+# digikam
+# haruna
+# kclock
+# kasts
+# karp
+# kid3
+# kolourpaint
+# krita
+# ktorrent
+# kid3
+
+### System Utilities ###
+htop
+btop
+fastfetch
+tmux
+vim
+git
+android-tools
+borgbackup
+scrcpy
+
+### Development tools ###
+gcc
+make
+cmake
+python3-pip
+nodejs
+npm
+@development-tools
+
+### Archive tools ###
+p7zip
+p7zip-plugins
+unrar
